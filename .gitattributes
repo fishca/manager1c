@@ -1,0 +1,6 @@
+
+README.md merge=ours
+.gitmodules merge=ours
+.gitignore merge=ours
+.gitattributes merge=ours
+LICENSE.txt merge=ours
